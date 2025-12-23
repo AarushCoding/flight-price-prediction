@@ -2,24 +2,24 @@
 A Machine Learning model which predicts the price of a flight based on data like the ticket type and airline.
 
 ## Features
-Airline (str)
-Flight (str)
-Source City (str)
-Departure Time (Str)
-Stops (str)
-Arrival Time (str)
-Destination City (str)
-Class (str)
-Duration (float)
-Days Left Till Travel (int)
+Airline (str)<br \>
+Flight (str)<br \>
+Source City (str)<br \>
+Departure Time (str)<br \>
+Stops (str)<br \>
+Arrival Time (str)<br \>
+Destination City (str)<br \>
+Class (str)<br \>
+Duration (float)<br \>
+Days Left Till Travel (int)<br \>
 
 ## Target
 Price (int)
 
 ## Packages
-Pandas
-Numpy
-Scikit-Learn
+Pandas<br \>
+Numpy<br \>
+Scikit-Learn<br \>
 
 ## Results
 This model had an average r2 score of 0.92.
